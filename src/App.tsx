@@ -7,7 +7,7 @@ function App() {
     font-primary"
     >
       <img
-        src="/excluir-user-sirflor/logoSirflor.png"
+        src="/delete-user-sirflor/logoSirflor.png"
         alt="Logo sirflor"
         className="mb-6 h-auto"
       />

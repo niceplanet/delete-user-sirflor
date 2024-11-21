@@ -11,5 +11,5 @@ export default defineConfig({
   build: {
     chunkSizeWarningLimit: 1000, // Ajuste o limite conforme necessário
   },
-  base: `/excluir-user-sirflor`,
+  base: `/delete-user-sirflor`,
 });

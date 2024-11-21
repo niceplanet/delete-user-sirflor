@@ -16,7 +16,7 @@ Siga as instruções abaixo para configurar e executar o projeto:
 
 1. Clone este repositório para o seu ambiente local. Você pode fazer isso executando o seguinte comando no seu terminal:
 ```
-git clone git@github.com:niceplanet/excluir-user-sirflor.git
+git clone git@github.com:niceplanet/delete-user-sirflor.git
 ```
 2. Navegue até o diretório do projeto:
 cd excluir-user-sirflor
@@ -49,11 +49,11 @@ Siga as etapas abaixo para executar o projeto:
 sudo docker-compose up --build -d
 ```
 
-2. Abra o seu navegador e acesse `http://localhost:8081/excluir-user-sirflor` para visualizar o projeto em execução.
+2. Abra o seu navegador e acesse `http://localhost:8081/delete-user-sirflor` para visualizar o projeto em execução.
 
 ## 📦 Compilação para Produção
 
-Se desejar compilar o projeto para produção (github pages) , execute o seguinte comando no diretório raiz do projeto, será feito o deploy para o link "https://niceplanet.github.io/excluir-user-sirflor/":
+Se desejar compilar o projeto para produção (github pages) , execute o seguinte comando no diretório raiz do projeto, será feito o deploy para o link "https://niceplanet.github.io/delete-user-sirflor/":
 ```
 sudo npm run deploy
 ```
